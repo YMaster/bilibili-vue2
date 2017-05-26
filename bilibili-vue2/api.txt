@@ -1,0 +1,31 @@
+主页推荐数据：
+localhost:3001/index/recommend/state
+其中：state为参数
+  init  : 初始化，获取最新数据
+  break : 表示下拉刷新，获取最新数据
+  more  : 表示上滑加载，获取过往数据
+
+主题数据：
+localhost:3001/index/skinList
+
+直播页
+获取分类数据
+localhost:3001/live/areas
+
+获取推荐主播数据
+localhost:3001/live/recommend
+
+获取公共数据
+localhost:3001/live/common
+
+直播板块详情页以及
+localhost:3001/live/rooms/area_id/sort[/tag]
+area_id: 版块的id号
+sort：分类
+tag: 具体板块详情页的标签分类（若是推荐页则没有该参数）
+
+番剧
+
+
+分区
+
