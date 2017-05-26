@@ -25,9 +25,9 @@
 ```
 >后端运行
 ```shell
-  cd bilibili-API
+  cd bilibili-api
   npm install
-  npm run dev
+  npm start
 ```
 前端运行
 ```shell
@@ -43,9 +43,9 @@
   npm run build
 ```
 运行后无论是将文件放置到服务器还是在本地打开都会发现静态资源无法加载出来，原因在于打包后的路径是 `/` ，需要将其改成 `./` 即可。
-`lybenson` 采用的方式是 在`webpack.base.conf.js`中修改js文件的输出路径中的`publicPath`，而我选择在不改变`vue-cli`的文件内容结构的情况下给原笨的`webpack.base.conf.js`文件中的`publicPath`中添加了 `.` 即可。<br>
-<img src='./readme-Images/002.png'><br>
-不知道`lybenson`使用`vue-cli`时是不是`css`文件真页找不着，但是我在搭建项目结构的时候并没有遇到这个问题，仅仅是js文件的路径需要修改而已，因此我的`css`问价路径并不需要调整。
+`lybenson` 采用的方式是 在`webpack.base.conf.js`中修改js文件的输出路径中的`publicPath`，而我选择在不改变`vue-cli`的文件内容结构的情况下给原笨的`webpack.base.conf.js`文件中的`publicPath`中添加了 `.` 即可。<br><br>
+<img src='./readme-Images/002.png'><br><br>
+不知道`lybenson`使用`vue-cli`时是不是`css`文件真页找不着，但是我在搭建项目结构的时候并没有遇到这个问题，仅仅是js文件的路径需要修改而已，因此我的`css`文件路径并不需要调整。
 
 ## 项目功能
 
@@ -95,6 +95,6 @@
 ## 总结
 
 已经搭建基本结构，vue-cli采用webpack，后台koa已经实现首页数据和直播页面以及直播各大板块数据的获取
-其他的。。。
+其他的。。。<br>
 正在努力实现中...
 持续更新中...
