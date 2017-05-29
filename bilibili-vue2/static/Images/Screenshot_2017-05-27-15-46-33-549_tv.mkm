@@ -1,0 +1,71 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/zyj/Desktop/bilibili-webApp/bilibili-vue2/static/Images/Screenshot_2017-05-27-15-46-33-549_tv.danmaku.bil.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="160" x="77" y="59"/>
+    <LengthMark direction="3" color="16711680" length="306" x="888" y="811"/>
+    <LengthMark direction="12" color="16711680" length="488" x="557" y="1236"/>
+    <LengthMark direction="3" color="16711680" length="204" x="994" y="1117"/>
+    <LengthMark direction="3" color="16711680" length="24" x="793" y="1263"/>
+    <LengthMark direction="3" color="16711680" length="7" x="490" y="1264"/>
+    <LengthMark direction="3" color="16711680" length="35" x="1017" y="1257"/>
+    <LengthMark direction="3" color="16711680" length="34" x="606" y="1256"/>
+    <LengthMark direction="12" color="16711680" length="48" x="570" y="1123"/>
+    <LengthMark direction="3" color="16711680" length="24" x="657" y="1078"/>
+    <LengthMark direction="3" color="16711680" length="28" x="160" y="1078"/>
+    <LengthMark direction="3" color="16711680" length="36" x="944" y="1141"/>
+    <LengthMark direction="3" color="16711680" length="30" x="934" y="781"/>
+    <LengthMark direction="12" color="16711680" length="20" x="908" y="757"/>
+    <LengthMark direction="3" color="16711680" length="120" x="644" y="348"/>
+    <LengthMark direction="12" color="16711680" length="1080" x="0" y="333"/>
+    <LengthMark direction="12" color="16711680" length="42" x="840" y="260"/>
+    <LengthMark direction="3" color="16711680" length="34" x="97" y="270"/>
+    <LengthMark direction="3" color="16711680" length="6" x="260" y="342"/>
+    <LengthMark direction="12" color="16711680" length="108" x="216" y="368"/>
+    <LengthMark direction="3" color="16711680" length="30" x="360" y="129"/>
+    <LengthMark direction="3" color="16711680" length="6" x="12" y="123"/>
+    <LengthMark direction="12" color="16711680" length="24" x="0" y="161"/>
+    <LengthMark direction="3" color="16711680" length="40" x="594" y="1070"/>
+    <LengthMark direction="3" color="16711680" length="34" x="87" y="391"/>
+    <LengthMark direction="3" color="16711680" length="52" x="1020" y="381"/>
+    <LengthMark direction="12" color="16711680" length="60" x="870" y="412"/>
+    <LengthMark direction="12" color="16711680" length="1010" x="35" y="553"/>
+    <LengthMark direction="12" color="16711680" length="10" x="1035" y="510"/>
+    <LengthMark direction="12" color="16711680" length="33" x="524" y="892"/>
+    <LengthMark direction="12" color="16711680" length="35" x="0" y="895"/>
+    <LengthMark direction="12" color="16711680" length="35" x="1045" y="902"/>
+    <LengthMark direction="3" color="16711680" length="29" x="548" y="470"/>
+    <LengthMark direction="3" color="16711680" length="31" x="586" y="1321"/>
+    <LengthMark direction="3" color="16711680" length="2" x="575" y="468"/>
+    <LengthMark direction="3" color="16711680" length="348" x="1067" y="0"/>
+    <LengthMark direction="3" color="16711680" length="44" x="617" y="304"/>
+    <LengthMark direction="12" color="16711680" length="33" x="557" y="1154"/>
+    <LengthMark direction="12" color="16711680" length="14" x="557" y="1085"/>
+    <LengthMark direction="12" color="16711680" length="160" x="557" y="1018"/>
+    <LengthMark direction="12" color="16711680" length="14" x="764" y="1100"/>
+    <LengthMark direction="12" color="16711680" length="35" x="557" y="1275"/>
+    <LengthMark direction="3" color="16711680" length="30" x="720" y="1291"/>
+    <LengthMark direction="3" color="16711680" length="28" x="1010" y="1293"/>
+    <LengthMark direction="3" color="16711680" length="140" x="1007" y="1117"/>
+    <LengthMark direction="3" color="16711680" length="12" x="21" y="147"/>
+    <LengthMark direction="3" color="16711680" length="14" x="498" y="348"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="12961221" offsetX="25" offsetY="10" x="400" y="349"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="120" y="393"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="13421772" offsetX="25" offsetY="10" x="429" y="468"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16631510" offsetX="25" offsetY="10" x="648" y="272"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="250" y="277"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="750" y="162"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="871" y="247"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16478873" offsetX="25" offsetY="10" x="861" y="268"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16478873" offsetX="25" offsetY="10" x="900" y="386"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16478873" offsetX="17" offsetY="17" x="997" y="752"/>
+    <ColorMark defaultDirection="10" direction="10" color="16711680" targetColor="16777215" offsetX="41" offsetY="39" x="949" y="758"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16119285" offsetX="25" offsetY="10" x="716" y="802"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="864" y="1143"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="2697513" offsetX="25" offsetY="10" x="634" y="1147"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="753" y="1265"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="2631720" offsetX="25" offsetY="10" x="615" y="1687"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="639" y="1801"/>
+    <ColorMark defaultDirection="6" direction="6" color="16711680" targetColor="13158600" offsetX="45" offsetY="11" x="488" y="1288"/>
+    <LengthMark direction="3" color="16711680" length="66" x="32" y="377"/>
+    <LengthMark direction="3" color="16711680" length="281" x="103" y="499"/>
+  </Marks>
+</MKM>

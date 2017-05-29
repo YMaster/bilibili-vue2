@@ -1,6 +1,6 @@
 # bilibili-vue2
 
-> A project that uses vue2 to imitate bilibili
+> A Vue.js project
 
 ## Build Setup
 

@@ -1,0 +1,20 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/zyj/Desktop/bilibili-webApp/bilibili-vue2/static/Images/Screenshot_2017-05-27-15-51-11-354_tv.danmaku.bil.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="34" x="442" y="350"/>
+    <LengthMark direction="3" color="16711680" length="36" x="392" y="474"/>
+    <LengthMark direction="12" color="16711680" length="36" x="244" y="557"/>
+    <LengthMark direction="12" color="16711680" length="34" x="2" y="423"/>
+    <LengthMark direction="3" color="16711680" length="956" x="19" y="350"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="594" y="346" textMaxWidth="100" offsetX="25" offsetY="10" text="此处有一个两像素的边框&#xD;"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="9803157" offsetX="25" offsetY="10" x="351" y="348"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="12632256" offsetX="25" offsetY="10" x="485" y="350"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="205" y="344"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="228" y="279"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16631510" offsetX="25" offsetY="10" x="456" y="275"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="3355443" offsetX="25" offsetY="10" x="154" y="424"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="13421772" offsetX="25" offsetY="10" x="324" y="636"/>
+    <ColorMark defaultDirection="9" direction="5" color="16711680" targetColor="13421772" offsetX="25" offsetY="10" x="996" y="425"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="15395562" offsetX="25" offsetY="10" x="767" y="378"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16448250" offsetX="25" offsetY="10" x="860" y="397"/>
+  </Marks>
+</MKM>

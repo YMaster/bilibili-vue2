@@ -1,0 +1,25 @@
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5)
+  .borderLine
+    &::after
+      -webkit-transform: scaleY(0.67)
+      transform: scaleY(0.67)
+@media (-webkit-min-device-pixel-ratio: 2), (min-device-pixel-ratio: 2)
+  .borderLine
+    &::after
+      -webkit-transform: scaleY(0.5)
+      transform: scaleY(0.5)
+@media (-webkit-min-device-pixel-ratio: 3), (min-device-pixel-ratio: 3)
+  .borderLine
+    &::after
+      -webkit-transform: scaleY(0.34)
+      transform: scaleY(0.34)
+
+.clearfix::before,
+.clearfix::after
+  content: ""
+  display: block
+  line-height: 0
+  height: 0
+  overflow: hidden
+  clear: both
+  visibility: hidden

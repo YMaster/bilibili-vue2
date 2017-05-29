@@ -1,0 +1,27 @@
+html, body
+  height 100%
+  line-height: 1
+  font-weight: 200
+  font-family: '微软雅黑', 'PingFang SC', 'STHeitiSC-Light',
+    'Helvetica-Light', arial, sans-serif
+
+// 设置边框大小以及颜色函数
+borderLine($px, $color)
+  position: relative
+  &:after
+    display: block
+    position: absolute
+    left: 0
+    bottom: 0
+    width: 100%
+    border-top: $px solid $color
+    content: ''
+noBorderLine()
+  &:after
+    display: none
+
+[v-cloak]
+  display none
+
+.fl
+  float left

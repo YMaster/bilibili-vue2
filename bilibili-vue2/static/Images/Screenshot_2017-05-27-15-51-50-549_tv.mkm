@@ -1,0 +1,22 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/zyj/Desktop/bilibili-webApp/bilibili-vue2/static/Images/Screenshot_2017-05-27-15-51-50-549_tv.danmaku.bil.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="348" x="366" y="0"/>
+    <LengthMark direction="3" color="16711680" length="120" x="367" y="516"/>
+    <LengthMark direction="3" color="16711680" length="167" x="426" y="348"/>
+    <LengthMark direction="12" color="16711680" length="36" x="0" y="721"/>
+    <LengthMark direction="12" color="16711680" length="32" x="468" y="656"/>
+    <LengthMark direction="12" color="16711680" length="30" x="468" y="827"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="527" y="809"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="659" y="823"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="524" y="883"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="3355443" offsetX="25" offsetY="10" x="777" y="650"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="10066329" offsetX="25" offsetY="10" x="914" y="573"/>
+    <ColorMark defaultDirection="9" direction="5" color="16711680" targetColor="13421772" offsetX="25" offsetY="10" x="1031" y="428"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="13421772" offsetX="25" offsetY="10" x="710" y="388"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="12763842" offsetX="25" offsetY="10" x="524" y="348"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16053492" offsetX="25" offsetY="10" x="555" y="501"/>
+    <ColorMark defaultDirection="9" direction="9" color="16711680" targetColor="16053492" offsetX="25" offsetY="10" x="564" y="574"/>
+    <LengthMark direction="3" color="16711680" length="36" x="310" y="906"/>
+    <LengthMark direction="12" color="16711680" length="432" x="37" y="862"/>
+  </Marks>
+</MKM>

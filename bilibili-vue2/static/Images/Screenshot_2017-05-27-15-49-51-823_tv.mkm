@@ -1,0 +1,23 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/zyj/Desktop/bilibili-webApp/bilibili-vue2/static/Images/Screenshot_2017-05-27-15-49-51-823_tv.danmaku.bil.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="36" x="269" y="552"/>
+    <LengthMark direction="3" color="16711680" length="114" x="469" y="589"/>
+    <LengthMark direction="3" color="16711680" length="78" x="551" y="607"/>
+    <LengthMark direction="12" color="16711680" length="3" x="538" y="666"/>
+    <LengthMark direction="3" color="16711680" length="166" x="566" y="745"/>
+    <LengthMark direction="3" color="16711680" length="42" x="676" y="703"/>
+    <LengthMark direction="3" color="16711680" length="240" x="29" y="348"/>
+    <LengthMark direction="12" color="16711680" length="54" x="1026" y="824"/>
+    <LengthMark direction="12" color="16711680" length="42" x="0" y="827"/>
+    <LengthMark direction="12" color="16711680" length="24" x="103" y="829"/>
+    <LengthMark direction="3" color="16711680" length="36" x="254" y="805"/>
+    <LengthMark direction="3" color="16711680" length="34" x="380" y="629"/>
+    <LengthMark direction="3" color="16711680" length="26" x="430" y="1330"/>
+    <LengthMark direction="3" color="16711680" length="54" x="491" y="1401"/>
+    <LengthMark direction="12" color="16711680" length="38" x="0" y="1026"/>
+    <LengthMark direction="12" color="16711680" length="32" x="351" y="1056"/>
+    <LengthMark direction="12" color="16711680" length="32" x="697" y="1003"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="699" y="908" textMaxWidth="100" offsetX="25" offsetY="10" text="阴影都是 3px&#xD;"/>
+    <LengthMark direction="12" color="16711680" length="41" x="0" y="1371"/>
+  </Marks>
+</MKM>
