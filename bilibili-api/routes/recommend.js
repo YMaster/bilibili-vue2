@@ -37,7 +37,9 @@ router.get('/recommend/:status', async (ctx, next) => {
     open_event = "";
     pull = false;
   }
+  
   console.log(idx);
+
   url = urlConfig.recommend + "?" 
             + urlParams.allCommonParams()
             + "&idx=" + idx

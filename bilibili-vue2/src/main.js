@@ -6,9 +6,12 @@ import router from './router';
 
 Vue.config.productionTip = false;
 
+// 引入store
+import Store from './store';
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
+  Store,
   router,
   template: '<App/>',
   components: {

@@ -9,8 +9,8 @@
 >然后就想我干脆写一个移动端的项目好了，而bilibili本身有自己的移动端网站，我总不能讲人家的移动端网站直接抄过来吧，所以我将目光转移到了自己手机用得最多的app之一（哔哩哔哩客户端），B站的设计美观大方，并且细节满满，相信用过的都懂。
 >目前技术栈准备使用：前端vue2.0，后端koa2.0的方式，语法使用ES6为主，数据来自B站真实的数据接口。<br>
 >看了B站主页项目的人肯定会发现，这技术使用不是和人家差不多吗？其实不一样啦，人家做的是PC端网站，我做的是移动端app啦!<br>
-<img src='./readme-Images/001.gif' width=100>
->虽然没有PC端厉害，但我好歹不止实现了一个主页吧！
+<img src='./readme-Images/001.gif' width=100><br>
+虽然没有PC端厉害，但我好歹不止实现了一个主页吧！
 
 ## 技术栈
 
@@ -43,7 +43,7 @@
   npm run build
 ```
 运行后无论是将文件放置到服务器还是在本地打开都会发现静态资源无法加载出来，原因在于打包后的路径是 `/` ，需要将其改成 `./` 即可。
-`lybenson` 采用的方式是 在`webpack.base.conf.js`中修改js文件的输出路径中的`publicPath`，而我选择在不改变`vue-cli`的文件内容结构的情况下给原笨的`webpack.base.conf.js`文件中的`publicPath`后面的`config.build.assetsPublicPath`前添加 `.` 即可。<br><br>
+`lybenson` 采用的方式是 在`webpack.base.conf.js`中修改js文件的输出路径中的`publicPath`，而我选择在不改变`vue-cli`的文件内容结构的情况下给原本的`webpack.base.conf.js`文件中的`publicPath`后面的`config.build.assetsPublicPath`前添加 `.` 即可。<br><br>
 <img src='./readme-Images/002.png'><br><br>
 不知道`lybenson`使用`vue-cli`时是不是`css`文件真页找不着，但是我在搭建项目结构的时候并没有遇到这个问题，仅仅是js文件的路径需要修改而已，因此我的`css`文件路径并不需要调整。
 
@@ -94,7 +94,8 @@
 ```
 ## 总结
 
-已经搭建基本结构，vue-cli采用webpack，后台koa已经实现首页数据和直播页面以及直播各大板块数据的获取
-其他的。。。<br>
-正在努力实现中...
+已经搭建基本结构，vue-cli采用webpack，后台koa已经实现首页数据和直播页面以及直播各大板块数据的获取<br>
+轮播图组件实现，但在路由切换是定时未停止...  搜寻解决办法中，如果你有好的办法的话可以告诉我<br>
+其他功能...<br>
+正在努力实现中...<br>
 持续更新中...
