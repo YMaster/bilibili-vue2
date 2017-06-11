@@ -175,6 +175,10 @@ export default {
     stopInterval() {
       clearInterval(this.interval);
     }
+  },
+  // 离开路由时会自动销毁实例，在离开前取消定时器
+  beforeDestroy() {
+    this.stopInterval();
   }
 };
 </script>

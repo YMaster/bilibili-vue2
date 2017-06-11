@@ -1,7 +1,9 @@
 <template>
   <div id="hello">
     <appTop></appTop>
-    <router-view></router-view>
+    <div class="router">
+      <router-view></router-view>
+    </div>
   </div>
 </template>
 
@@ -26,4 +28,6 @@ export default {
   #hello
     width 100%
     height 100%
+    .router
+      width 100%
 </style>

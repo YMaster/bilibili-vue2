@@ -1,5 +1,5 @@
 <template>
-  <div id="videos">
+  <div id="videos" class="clearfix">
     <videoItem v-for="item in videoData" :key="item.ctime" :video-data="item"></videoItem>
   </div>
 </template>
@@ -31,4 +31,9 @@
 </script>
 
 <style lang="stylus" scoped>
+  @import '../../../common/stylus/base';
+
+  #videos
+    width 100%
+    height 100%
 </style>
